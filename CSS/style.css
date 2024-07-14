@@ -225,7 +225,7 @@ header .container .logo img{
 .landing{
     height: 100vh;
     background-color: #1f2021; 
-    background-image: url("/pictures/Screenshot\ 2024-07-14\ 011547.png");
+    background-image: url("../pictures/Screenshot\ 2024-07-14\ 011547.png");
     background-size: cover;
     background-position:center ;
     position: relative;
@@ -387,7 +387,7 @@ height: 430px;
 position: relative;
 overflow: hidden;
 max-width: 100%;
-background-image: url("/pictures/pngtree-red-and-blue-neon-lit-3d-geometric-corridor-4k-uhd-abstract-image_3660615.jpg");
+background-image: url("../pictures/pngtree-red-and-blue-neon-lit-3d-geometric-corridor-4k-uhd-abstract-image_3660615.jpg");
 background-size: cover;
 }
 .design::after{
@@ -639,7 +639,7 @@ margin-bottom: 10px;
 /* end about */
 /* start stats */
 .stats{
-    background-image: url("/pictures/360_F_549863991_6yPKI08MG7JiZX83tMHlhDtd6XLFAMce.jpg");
+    background-image: url("../pictures/360_F_549863991_6yPKI08MG7JiZX83tMHlhDtd6XLFAMce.jpg");
     background-size: cover;
 position: relative;
 padding-top: calc(var(--section-padding) + 50px);
@@ -864,7 +864,7 @@ margin-top: 5px;
 .quote{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url("/pictures/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg");
+    background-image: url("../pictures/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg");
     position: relative;
 }
 .quote::before{
@@ -990,7 +990,7 @@ border-bottom: 1px solid var(--main-color);
 .subscribe{
     padding-top: calc( var(--section-padding) + 100px);
     padding-bottom: calc( var(--section-padding) + 100px);
-    background-image: url("/pictures/painting-mountain-lake-with-mountain-background_188544-9126.avif");
+    background-image: url("../pictures/painting-mountain-lake-with-mountain-background_188544-9126.avif");
     background-size: cover;
     position: relative;
 }
@@ -1161,7 +1161,7 @@ outline: none;
 .footer{
     padding-top: var(--section-padding) ;
     padding-bottom: var(--section-padding);
-    background-image: url("/pictures/beautiful-blurred-green-nature-background-ai-generated-photo.jpg");
+    background-image: url("../pictures/beautiful-blurred-green-nature-background-ai-generated-photo.jpg");
 background-size: cover;
 position: relative;
 background-position-y: bottom;
